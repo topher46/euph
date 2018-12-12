@@ -106,6 +106,10 @@ often do.
 * Tried the mixture of spectral gate&hold in one end of trumpet & euphonium in the other. Interesting, but not sure it matters.
 5. 04_40_R.wav
 * Side of the road, open space. There are some intersting birds, it begins with the road noise dying down.
+6. 05_41_R.wav
+* Facing the river, there are very subtle cars in distance, water rushing dominates.
+* The L's were a failure because the noise does not register a tone. The long held tone is basically noise, probably trim OR play with breath sounds.
+
 
 ### Heros Journey in 12 Steps - worth considering this archtype
 *https://quizlet.com/14697468/12-stages-of-a-heros-archetypal-journey-flash-cards/*
@@ -116,7 +120,7 @@ often do.
  ------ | ------ | ------ | ------
  Ordinary World | Stage 1 | Creates contrast wiht strange new world; the problem is waiting to be achieved; hero lacks something; a search for completeness | Search seems like import word, particularily for completeness
  Call To Adventure | Stage 2 | A problem is presented as a chalenge or adventure, objects are revealed as clues | objects revealed as clues - anticipating material that will come later
- Refusing the Call | Stage 3 | Refuses call because of fear, the greatest dear is because of the unknown, not fully committed, may 'return back' and needs convincing | lack of commitment seems most relavent 
+ Refusing the Call | Stage 3 | Refuses call because of fear, the greatest dear is because of the unknown, not fully committed, may 'return back' and needs convincing | lack of commitment seems most relavent
 | Mentor | Stage 4 | Where hero is encourage by mentor, function of mentor is to prepaer her to face unknown, give advice, and give equipment | Something about receiving equipment means this is where technology is foregrounded in the piece - probably choir gives material to soloist |
 | Crossing the First Threshold | Stage 5 | Hero commits to the adventure; fully enters the special world, begins to face consequences of the problem | Fully enters world, here the soloist faces the consequences of the context of the choir |
 | Test Allies and Enemies | Stage 6 | Where hero faces challenges and learns rules of the special world, learns who allies are and who enemies are | learns RULES of special world (ie the journey) the ensemble & electronics processing function as both allies and enemies |
