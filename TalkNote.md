@@ -9,13 +9,13 @@ How To [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 
 ### Notes
 * Northern Lights Festicval in one Year - @ Culure House - on theme of Northicity-ish -  **feremsmakk** - opposite of talking behind someones back - positive, not hidden, it is public, don't want anything in return - way of confronting established power - confronting what worth people have to each other - positive way of attacking these things - quality is related to who lives in the capitol (what kind of qualities comprise quality) - instead of attacking decisions made about quality, one way is to tell positive stories (create a narative - counter - reveal parallel narratives)
-        * thinking about changing what people think and feel, it is not about talk, it is about doing things, agenda is not obvious, but it is underlining.
-        * The protest is about mem-afying , more subtle
-        * classical contemporary music event - context
-        * *sidenote* The Balance Project - Female a day - **JETTE GET** woman scientist a day on Wikipedia (heard on The World - Dec 18) [ https://www.pri.org/file/2018-12-18/physicist-recognized-boosting-women-wikipedia]
-         * Date Jan 24 Feb 2 -- need to have score ahead of time
-         * [ http://kunstfak.no/prosjekter/arctic-sustain-let-vibrate ] --- plus Lute& Electric Guitar player  (9 people ) can be more
-             * Leader model of research groups - this is a chamber music ensemble (Geir is logistical leader) - no clear structure - everyone is involved in Northicity Project - starting to take form - everyone is doubeling / prop orchestra for Norweigen seperatist movement.  - things are very open
+    * thinking about changing what people think and feel, it is not about talk, it is about doing things, agenda is not obvious, but it is underlining.
+    * The protest is about mem-afying , more subtle
+    * classical contemporary music event - context
+    * *sidenote* The Balance Project - Female a day - **JETTE GET** woman scientist a day on Wikipedia (heard on The World - Dec 18) [ https://www.pri.org/file/2018-12-18/physicist-recognized-boosting-women-wikipedia]
+     * Date Jan 24 Feb 2 -- need to have score ahead of time
+     * [ http://kunstfak.no/prosjekter/arctic-sustain-let-vibrate ] --- plus Lute& Electric Guitar player  (9 people ) can be more
+         * Leader model of research groups - this is a chamber music ensemble (Geir is logistical leader) - no clear structure - everyone is involved in Northicity Project - starting to take form - everyone is doubeling / prop orchestra for Norweigen seperatist movement.  - things are very open
 
 * Composer - Jung Peerson - contemporary New Music Society - Royal Music Academy  - Music Informatin - his story is a special one : Opera on riot in 1840's ; Under Cross and Crown - 1985 completed, but they turned it down -- [https://en.wikipedia.org/wiki/John_Persen]
     * Edition to the Norweigen Music History
