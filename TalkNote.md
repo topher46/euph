@@ -60,46 +60,46 @@ Online Talk Notes
          * Rolph Boik - Hovenagous Organ -- all the clarinets
          * talk more about artist book
           
-          3. First Dedline - premiered in Jan/Feb 2020 (Jan 25 Feb 3) Festival Dates
-              * http://nordlysfestivalen.no/
-              * Artic Sustain - Let Vibrate (ASLV)
-              
-          4. Seperate Mouthpiece Piece - Able to apply for Norweigen Cultural Funds (deadline in June)
+  3. First Dedline - premiered in Jan/Feb 2020 (Jan 25 Feb 3) Festival Dates
+      * [http://nordlysfestivalen.no/]
+      * Artic Sustain - Let Vibrate (ASLV) [http://kunstfak.no/prosjekter/arctic-sustain-let-vibrate/]
+      
+  4. Seperate Mouthpiece Piece - Able to apply for Norweigen Cultural Funds (deadline in June)
           
-          5. Touring with this Music - Small Festival
-          * Jette checkin with LightBrigade
-          * Fall in Anchorage - Make some connections
-          * Also Canada - Northern Russia
-          * Connect the people - narrative of the people in the north (cities)
-          * Looking for cooperation when touring -
-              1. Funding is good - finding cooperatively
-              2. working with local artists - professional manner - everyone gets paid
-          
-          6. Euphonium Ensemble
-              * soloist with ensemble of autonomous and technican
-              * modular
-              * maybe servo's or solenoids
-              * start with mouthpieces
-              * lips are like the vocal chords - the sings that we can sing can be donbe on the instrument
+  5. Touring with this Music - Small Festival
+      * Jette checkin with LightBrigade
+      * Fall in Anchorage - Make some connections
+      * Also Canada - Northern Russia
+      * Connect the people - narrative of the people in the north (cities)
+      * Looking for cooperation when touring -
+          1. Funding is good - finding cooperatively
+          2. working with local artists - professional manner - everyone gets paid
+      
+  6. Euphonium Ensemble
+      * soloist with ensemble of autonomous and technican
+      * modular
+      * maybe servo's or solenoids
+      * start with mouthpieces
+      * lips are like the vocal chords - the sings that we can sing can be donbe on the instrument
+      
+  7. Proceeding Forward
+      * First Deadline in one year - ensemble piece
+      * Work on Euphonium as if have finances - spring have ensemble together - OneMan Ensemble - GigantaMania - about human nature and control - the big machine - explore how really play with electronics - Chamber Music
+      * vocal track - 3d print - 3d print gvocal tract valves - appendage below valve for vowel
+      * Follow up next week  -
+      * Autumn in Anchorage OR Go to Norway in Spring  -- meeting the ensemble
+      
+* Strauss - Heldenleibben - 1st piece to use euphonium - self portrait of Strauss
               
-              7. Proceeding Forward
-              * First Deadline in one year - ensemble piece
-              * Work on Euphonium as if have finances - spring have ensemble together - OneMan Ensemble - GigantaMania - about human nature and control - the big machine - explore how really play with electronics - Chamber Music
-              * vocal track - 3d print - 3d print gvocal tract valves - appendage below valve for vowel
-              * Follow up next week  -
-              * Autumn in Anchorage OR Go to Norway in Spring  -- meeting the ensemble
-              
-              Strauss - Heldenleibben - 1st piece to use euphonium - self portrait of Strauss
-              
-              10 minute ensemble with mediumn to high complexity - everybody must work on lens of project description - looking into what north is (researching and projecting what north is ) - contribution in contemporary music - personal voice - contemp music setting
+*  10 minute ensemble with mediumn to high complexity - everybody must work on lens of project description - looking into what north is (researching and projecting what north is ) - contribution in contemporary music - personal voice - contemp music setting
               $8000 + expenses
               
-              * Hugen and Lugen - [https://en.wikipedia.org/wiki/Huginn_and_Muninn
+  * Hugen and Lugen - [https://en.wikipedia.org/wiki/Huginn_and_Muninn
               uit.no]
           Norse Mythology
           
-          * Same time meeting next 
+* Same time meeting next
           
-      ## Jette Look up - TODO
-          * Iceland Herring Factory
-          * send my driver mouthpiece
+## Jette Look up - TODO
+  * Iceland Herring Factory
+  * send my driver mouthpiece
