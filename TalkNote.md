@@ -7,7 +7,8 @@ How To [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
     * When in Anchorage? (August - December 2019)
     * thinking about hero/group indivuidual/ensemble - what is the dynamic of the ensemble - leaders, etc.
 
-### Notes
+## Notes
+### Ensemble Piece
 * Northern Lights Festicval in one Year - @ Culure House - on theme of Northicity-ish -  **feremsmakk** - opposite of talking behind someones back - positive, not hidden, it is public, don't want anything in return - way of confronting established power - confronting what worth people have to each other - positive way of attacking these things - quality is related to who lives in the capitol (what kind of qualities comprise quality) - instead of attacking decisions made about quality, one way is to tell positive stories (create a narative - counter - reveal parallel narratives)
     * thinking about changing what people think and feel, it is not about talk, it is about doing things, agenda is not obvious, but it is underlining.
     * The protest is about mem-afying , more subtle
@@ -103,3 +104,7 @@ Online Talk Notes
 ## Jette Look up - TODO
   * Iceland Herring Factory
   * send my driver mouthpiece
+  
+  ## Links
+  [http://wikiphonium.org/wiki/index.php/Main_Page]
+  [https://www.researchcatalogue.net/view/56371/56372]
