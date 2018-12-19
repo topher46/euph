@@ -102,7 +102,7 @@ Online Talk Notes
 * Same time meeting next
           
 ## Jette Look up - TODO
-  * Iceland Herring Factory
+  * Iceland Herring Factory [http://djupavik.is/the-factory-listasyning/]
   * send my driver mouthpiece
   
   ## Links
