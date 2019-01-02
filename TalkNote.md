@@ -1,6 +1,56 @@
 # Online Talk Notes
 How To [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 
+
+## 2019_01_02
+### Agenda
+    * logistics
+    * pieces discussion
+    * Discussion
+
+## Logistics
+* Contract is moving forward, it is in progress
+
+* 3d printer assembled - moving forward on that
+     *how to modify stl -- blender
+
+* No news on Alaska Date
+* Meeting with Arctic Sustain in February 13-15 Workshop (maybe have some score/sketch together) -- Christine Hansen (youngest composer in the project)
+    * online meeting
+    * maybe Jette presents sketches
+    * co creation strategy - this seems like the best way to work,
+        * may get Jette to Norway to do this
+
+## Ensemble Piece
+* ice recording as electronic part...
+
+* **Geir Send**
+    * links for performers
+    *  All Parrots Yawn (from  - recording & score for piece)
+    *  national conservatory has score
+
+## Solo Piece
+* interaction between audience and piece
+*  Geir interested in humor - interesting provocation for Jette
+* solo part writing
+* architecture - soloist with ensemble of 3d printed mouthpieces
+    * we will start here and maybe move to seperate investigation of 2 mouthpieces for euphonium
+
+## Discussion
+* tongue pizzicato -- mouth pop in combination with pitch - very short & any note on euphonium
+* Max Patch - Pulse Train, now have version that goes from -1 to 1
+    * train is always on, need a way to envelope it
+    * Geir is curious about transition time for square wave (Jette - it is either I/O vector or single sample - check reference)
+        * _A value of 0 has the smallest "on" pulse size (usually a single sample), while a value of 1 has the largest (usually the entire interval except a single sample)._ (from _signal_ method of _train~_ Reference) This seems to indicate that the transition from one value to the other is a single sample.
+
+
+## LINKS
+* a way to get free stl files [https://www.thingiverse.com/newest]
+    * where did Geir get 3d scan of mouthpiece?
+* A sofware to manipulate stl's (alternative to OpenScad) [https://www.blender.org/]
+
+
+
 ## 2018_12_19
 ### Agenda
     * send links to performers in Artic Sustain - Let Vibrate

@@ -138,3 +138,18 @@ often do.
 
 * There is also "The Journey North" which refers to Migration. *https://journeynorth.org/*
 * I have 27 recordings - this could be groups of 2 or maybe 3 and use duplicates as well as Wrangell to make 36 - Yes, groups of 3
+
+* Jung Archetypes
+https://en.wikipedia.org/wiki/Jungian_archetypes
+
+* Prose Edda
+    * http://www.redicecreations.com/files/The-Prose-Edda.pdf
+    * https://archive.org/details/proseedda01brodgoog/page/n126
+    
+    
+    
+## December 17
+1. gatherTunples_SDIF.maxpat (max8) now works.
+    * can get decent chords, but not really tracking time or melodic lines.
+    * may need to run sc to max with different registral constraints. That may be more valuable for making lines.
+    * maybe do centroid calculation and constrain the instrumental line relative to the spectral centroid & or brightness....? 
