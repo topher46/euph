@@ -10,12 +10,15 @@
 ## 2019_01_09
 ### Agenda
     * Logistics - travel updates
-    * solo piece printing X
-    * solo piece core idea X
+    * solo piece printing
+    * solo piece core idea
     * ensemble piece (translating & listening) - moving from water to ice (sonically&visually)
-    * Geir - links for performers & recording/score for _Owl Parrots Yowl_ X
-    
-## Logistics
+    * Geir - links for performers & recording/score for _Owl Parrots Yowl_
+
+### Next Week
+* Frame the meeting, what will be useful
+
+### Logistics
 * ask IRS about international commission - forms in terms of tax documentation
 * note of payment with confirmation in stead of contract
 * Jette **TO DO**
@@ -27,7 +30,7 @@
     * Ensemble payments - Spring 2019  &  winter 2020
     * for solo piece - not sure yet, but Prob Winter and winter + 1 year
     
-    ## Solo Piece
+    ### Solo Piece
     * Geir made print
     * inside of the mouthpiece is a Besier Curve - some way to do it OpenScad
     * doing mouthpiece for lips first, then speaker --
@@ -46,60 +49,62 @@
             * subjective
         * Document - pictures & recordings
     
- ## Ensmble
-*  Geir Davidsen (euphonium) (head)
-* Friederike Bischoff (piano)
-        * [https://uit.no/om/enhet/ansatte/person?p_document_id=94381&p_dimension_id=88175]
-        * very classically trained core rep is Chopin/Rachmaninoff
-        * using ebow with piano in new commission
-        * aesthetics - romantic timing wise
-*  Ingrid Eliassen (trumpet)
-    * [https://uit.no/om/enhet/ansatte/person?p_document_id=308922&p_dimension_id=88175]
-    * [https://www.youtube.com/watch?v=XyPBA_vN3_M]
-    * youngest - from the north
-    * cornetto (the stick one) and all trumpets
-    * orchestral player
-    * does a lot of different things
-    * did commission with trumpet euphonium & percussion
-* Rolf Borch (clarinet)
-        * [http://www.rolfborch.net/home/]
-        * phd Music performance
-        * did organ recording
-        * specialist in contemporary music - a lot of premieres
-        * works with several ensembles
-* Lars Lien (saxophone)
-        * https://uit.no/om/enhet/ansatte/person?p_document_id=93859&p_dimension_id=88175
-        * specialist in contemporary music - a lot of premieres
-    * Jens Kloster (trombone)
-        * [https://uit.no/om/enhet/ansatte/person?p_document_id=94360&p_dimension_id=88175]
-        * [http://bronselur.no/wp-content/uploads/2014/01/program_klang-av-oldtid.pdf ]
-        * does recreated instruments
-        * orchestral player to diverse teaching
-    * Berit Norbakken Solset (soprano)
-        * established soloist
-        * performance phd
-        * commissioned music together
-        * does most stuff outside romantic
-        * early music & contemp
-        * not operatic - more like instrumentalist
-        * [https://beritsolset.com]
-        * her thesis is on voice in unstrumental context
-            * [http://artistic-research.no/borderland-seeking-the-extreme/?lang=en]
-    * Jon Marius Aareskjold (music technology)
-        * [https://www.discogs.com/artist/310753-Jon-Marius-Aareskjold]
-        * [https://uit.no/om/enhet/ansatte/person?p_document_id=93949&p_dimension_id=88175]
-        * pop music
-        * jack trip
-            * NYU Tom Bayer - music tech&staff - Chief System Engineer
-        * composes
-        * include as performer
-    * Solmund Nystabakk
-            * Guitar, electric guitar, Lute player
-            * phd student
-            * [https://www.discogs.com/artist/2646911-Solmund-Nystabakk] -
-            * [http://artistic-research.no/stipendiatprogrammet/stipendiater-lang-info/singing-with-the-lute-in-search-of-new-tools-for-interpreting-and-performing-lute-songs/?lang=en]
-    
-    * **Water to Ice - sensors & mics** the concet for the the journey north piece
+### Ensmble Piece
+* **Water to Ice - sensors & mics** the concet for the the journey north piece
+* Ensemble
+    * Geir Davidsen (euphonium) (head)
+    * Friederike Bischoff (piano)
+            * [https://uit.no/om/enhet/ansatte/person?p_document_id=94381&p_dimension_id=88175]
+            * very classically trained core rep is Chopin/Rachmaninoff
+            * using ebow with piano in new commission
+            * aesthetics - romantic timing wise
+    *  Ingrid Eliassen (trumpet)
+        * [https://uit.no/om/enhet/ansatte/person?p_document_id=308922&p_dimension_id=88175]
+        * [https://www.youtube.com/watch?v=XyPBA_vN3_M]
+        * youngest - from the north
+        * cornetto (the stick one) and all trumpets
+        * orchestral player
+        * does a lot of different things
+        * did commission with trumpet euphonium & percussion
+    * Rolf Borch (clarinet)
+            * [http://www.rolfborch.net/home/]
+            * phd Music performance
+            * did organ recording
+            * specialist in contemporary music - a lot of premieres
+            * works with several ensembles
+    * Lars Lien (saxophone)
+            * https://uit.no/om/enhet/ansatte/person?p_document_id=93859&p_dimension_id=88175
+            * specialist in contemporary music - a lot of premieres
+        * Jens Kloster (trombone)
+            * [https://uit.no/om/enhet/ansatte/person?p_document_id=94360&p_dimension_id=88175]
+            * [http://bronselur.no/wp-content/uploads/2014/01/program_klang-av-oldtid.pdf ]
+            * does recreated instruments
+            * orchestral player to diverse teaching
+        * Berit Norbakken Solset (soprano)
+            * established soloist
+            * performance phd
+            * commissioned music together
+            * does most stuff outside romantic
+            * early music & contemp
+            * not operatic - more like instrumentalist
+            * [https://beritsolset.com]
+            * her thesis is on voice in unstrumental context
+                * [http://artistic-research.no/borderland-seeking-the-extreme/?lang=en]
+        * Jon Marius Aareskjold (music technology)
+            * [https://www.discogs.com/artist/310753-Jon-Marius-Aareskjold]
+            * [https://uit.no/om/enhet/ansatte/person?p_document_id=93949&p_dimension_id=88175]
+            * pop music
+            * jack trip
+                * NYU Tom Bayer - music tech&staff - Chief System Engineer
+            * composes
+            * include as performer
+        * Solmund Nystabakk
+                * Guitar, electric guitar, Lute player
+                * phd student
+                * [https://www.discogs.com/artist/2646911-Solmund-Nystabakk] -
+                * [http://artistic-research.no/stipendiatprogrammet/stipendiater-lang-info/singing-with-the-lute-in-search-of-new-tools-for-interpreting-and-performing-lute-songs/?lang=en]
+        
+  
 
 ## 2019_01_02
 ### Agenda
