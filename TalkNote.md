@@ -6,6 +6,44 @@
     * Jette Links
         * [http://cj.lovelyweather.com/_works/fs.html]
 
+## 2019_01_16
+### Agenda
+    * Meet with ensemble date/objective
+    * solo Mouthpiece - recording? (and recording of last)
+    * Logistics - forms
+  
+### Logistics
+* payment stuff will be forwarded
+    
+### Solo Piece
+* printing mouthpiece - 2nd version uses bolt instead of screw (screw version is best)
+    * carbon fiber plastic for final print
+    * level meter to check loudness
+    * horn driver (next week)
+    * multiple bezier curves program in mouthpiece
+        * once mouthpiece speaker encloosure is stablized
+        * Sax gives a good description of dynamics - lecture in Paris - Will ask Losh
+* recording
+* Jette - buy speaker - print mouthpiece & then Try Synthesis on moouthpiece/euphonium
+* Bench Marks
+    * reproduce player
+    * explore new
+* recording belly and baby
+    
+### Ensmble Piece
+* Workshop
+* net meeting 1 1/2 hour
+* __9:30 AM Thursday Feb 14 - Artic Sustain__
+* great to have something to play (piano will not be there)
+* if need piano - can get one
+* __JETTE TO DO__  tell story of north and south - history projects & life history present some pieces (beforehand) - prepare presentation -
+* Commonism in the Guardian - video hits - Birminham - Big Assembaly
+* Facebook recording
+* there are two people who can - can add one - from Ning Ensemble  [http://ningensemble.com/]
+* Vocal range - she is a bright sorpano, not a mezzo __JETTE READ HER DISERTATION__
+    * [https://beritsolset.com/listen/] __LISTEN__
+
+
 
 ## 2019_01_09
 ### Agenda
