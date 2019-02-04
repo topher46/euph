@@ -1,4 +1,4 @@
-# Online Talk Notes (Nathan)
+# Online Talk Notes (Geir)
     * How To [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
     * Geir Links
         * [https://jar-online.net/divergent-voices-different-dialogues-in-the-artistic-research-project-wikiphonium/]
