@@ -1,4 +1,4 @@
-# Online Talk Notes
+# Online Talk Notes (Nathan)
     * How To [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
     * Geir Links
         * [https://jar-online.net/divergent-voices-different-dialogues-in-the-artistic-research-project-wikiphonium/]
@@ -6,7 +6,48 @@
     * Jette Links
         * [http://cj.lovelyweather.com/_works/fs.html]
 
-## 2019_01_16
+## 2019_01_23
+### Agenda
+    * Logistics - forms check-in
+    * Ensem - sketches exist
+    * solo recording? - stochastics residency?
+
+### Logistics
+* it is moving
+* will set Alaska date next week
+
+### Ensemble
+* sketches exist
+* send links for talk
+* Length 80K kronos - around 10 minutes (15 minutes)
+* examples of ensemble?
+* extracted stuff from video
+
+### Solo
+* [http://stochasticlabs.org/residencies/apply/] - possible joint residency
+    * still PLA - problem
+    * can also iterate into various possibilities beyond imitation
+    * building focus - musical focus
+* Mouthpiece Update -
+    * big discovery - cap is problematic - cretes resonance - moved to open back
+* 3D prints
+    * closed cap - origional - problem is the closed system
+    * open slim - __Best__ - inside there is a perfect seal w membrance & speaker and 3D print (uses better cup)
+    * open w lid - vented - almost as good as open_slim (uses better cup) - heavy & more fragile
+* screws - threading 3.5 mm & length 35mm & screw head up to 7mm - TAPERED SCREW
+* Geir working on 8 Euphoniums
+* Next thing are recordings
+* John Albert Kelly - wrote a lot about saxophone - one wall is flat inside  in order to distribute the resonance throughout the entire instrument - there is a book on it - theory of aerodynamics - __The Devils Hown__ (name of the book) story of the saxaphone
+* no one is making the old saxophones
+* 3D print long straight instruments (alla sax)
+
+### TO DO
+* 3D print mouthpiece
+* read about performers
+* read about Wurlitzer
+* residency - put together narrative
+
+## 2019_01_17
 ### Agenda
     * Meet with ensemble date/objective
     * solo Mouthpiece - recording? (and recording of last)
