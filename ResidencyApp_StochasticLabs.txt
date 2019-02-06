@@ -1,0 +1,88 @@
+http://stochasticlabs.org/residencies/apply/
+
+
+2500character spaces
+
+Team Member Bios
+
+Describe your project in 100 words or less.*
+
+Full project description*
+
+How is your project innovative?*
+
+How do you plan to reach/build your audience or user base?*
+
+What are the greatest challenges to the success of your project?*
+
+How do you think your project will benefit from participating in the Stochastic Community?*
+
+Create a rough timeline for your project from its current state to completion.*
+
+What community building event, service, or project would you plan to do during your time with us?*
+
+Is there anything else you would like us to know?*
+
+
+2 references
+////////////////////////////////////
+
+*Full project description*
+
+Our project involves two main components, the development of a 3D printed mouthpieces for euphonium ensemble and the development of performative works for that ensemble. Our project seeks to exploit the precision and possibility of iteration in developing a speaker/euphonium interface. 
+
+The project began with Geir Davidson allotting sabbatical time to the development of a 3D printed mouthpiece so his instrument, the euphonium, could be driven by a loudspeaker. The initial goal of this idea was to achieve the same volume and timbral qualities of a human player with a mechanical system. This initial work occurred in the fall of 2018 and brought him from Norway to the Center for Computer Research in Music and Acoustics (CCRMA) at Stanford. It was here that he created his first prototype and encountered Christopher Jette. They have subsequently been collaborating on a different compositional project and concurrently developing the 3D printed mouthpiece prototype and project concepts. In January of 2019, our first milestone was achieved, the creation of a viable 3D printed mouthpiece and speaker combination. This prototype produces the appropriate volume level and timbral variety to simulate a euphonium performer. 
+
+During the development of this prototype, working between our respective locations in Palo Alto California and Tromsa Norway, our process has involved remotely sharing code and independently working on the project. In weekly meetings, we have begun to outline a strategies to further develop our project. Through variation and iteration we plan to alter the mouthpiece and or euphonium to change physical properties of the instrument and the resulting acoustic properties. We envision alterations in mouthpiece design and the possibility of prosthetics in the air column. We are 3D printing components for this project because of the need for accuracy, parametric control for variation, the necessity of iterative process and the relatively small scale of components being generated. Our goal it to build physical variations of our initial prototype in order to create an ensemble of speaker driven euphoniums which can perform in tandem with a performer or as a stand-alone installation. 
+
+The creation of a speaker driven ensemble of euphoniums, or even more broadly of brass instruments, offers rich aesthetic possibilities. The outcome of the research is to create an opportunity to push the the acoustic properties of the euphonium in new ways. Our team brings together an expert performer dedicated to exploring and extending the euphonium with a composer/new media artist who has developed projects and run a prototyping lab. Our development goal is to create a flexible performance apparatus which both team members and eventually others, can adapt to different situations in order to explore new timbral and sculptural presentations. By altering our design to mimic the variations of the vocal pathway we aim to explore new timbral directions with the euphonium. Working with a combination of recorded performances and synthesized sound sources, we are attempting to incrementally define a new sonic space. From the performance perspective, the ability to perform euphonium in conjunction with a choir of similar instruments, which both extend the abilities of a human performer and exploit the unique acoustic opportunities of mechanical control is a strong motivation. An artistic outcome of our work will be the development of a composition for solo performer and ensemble, where elements of the live performer are diffused through the ensemble as well as sections where the contrast between mechanical precision and human flexibility are contrasted. This project will be presented in two different manners, where an audience can interact with the ensemble, incorporating the physicality of a diffused ensemble and a variety of constrained human interactions. A second presentation for this soloist and ensemble takes advantage of the physicality of the instruments by presenting them in a sculptural form. In both iterations we are seeking to create a unique aesthetic experience where instruments and audience are ascribed a different degree of agency than a typical concert situation.  A different artistic outcome a standalone ensemble which is presented in a gallery space. Here the opportunity to exploit the precision of mechanical control and the aesthetic opportunities of physical repetition are uniquely apparent. Multiples of the given instrument can be distributed throughout the space in order to maximize their position in relation to the acoustics of the space. 
+
+
+----------------------
+
+Our project involves two main components, the development of a 3D printed mouthpieces for euphonium ensemble and the development of performative works for that ensemble. Our project seeks to exploit the precision and possibility of iteration in developing a speaker/euphonium interface. 
+
+The project began with Geir Davidson allotting sabbatical time to the development of a 3D printed mouthpiece so his instrument, the euphonium, could be driven by a loudspeaker. The initial goal of this idea was to achieve the same volume and timbral qualities of a human player with a mechanical system. This initial work occurred in the fall of 2018 and brought him from Norway to the Center for Computer Research in Music and Acoustics (CCRMA) at Stanford. It was here that he created his first prototype and encountered Christopher Jette. They have subsequently been collaborating on a different compositional project and concurrently developing the 3D printed mouthpiece prototype and project concepts. In January of 2019, our first milestone was achieved, the creation of a viable 3D printed mouthpiece and speaker combination. This prototype produces the appropriate volume level and timbral variety to simulate a euphonium performer. 
+
+During the development of this prototype, working between our repective locations in Palo Alto California and Tromsa Norway, our process has involved remotely sharing code and independently working on the project. In weekly meetings, we have begun to outline a strategies to further develop our project. Through variation and iteration we plan to alter the mouthpiece and or euphonium to change physical properties of the instrument and the resulting acoustic properties. We envision alterations in mouthpiece design and the possibility of prosthetics in the air column. We are 3D printing components for this project because of the need for accuracy, parametric control for variation, the necessity of iterative process and the relatively small scale of components being generated. Our goal it to build physical variations of our initial prototype in order to create an ensemble of speaker driven euphoniums which can perform in tandem with a performer or as a stand-alone installation. 
+
+The creation of a speaker driven ensemble of euphoniums, or even more broadly of brass instruments, offers rich aesthetic possibilities. The outcome of the research is to create an opportunity to push the the acoustic properties of the euphonium in new ways. Our team brin [[WHERE IT CUTS OFF]]
+
+
+//////////////////////////////////////
+How is your project innovative?*
+
+This projects innovation is based in incrementally adjusting the physics of the air column of the brass instrument in order to explore different resonance model.  These physical alterations enable us to create a performance that takes advantage of the unique sound world and create a presentation that affords the audience a unique degree of agency as well as takes advantage of physicality of the instruments, turning them into sculptural objects. These local opportunities for research serve as a point for further development by sharing our designs and artistic works in order to collaborate with a larger body of designers and artists. Opening our creative process to others, once we have established a baseline is a great way to further develop the project in unanticipated ways. The ability to control the presentation of sound with a computer means that need not develop this apparatus for a single situation, but rather can explore a suite of works, each taking advantage of a unique aspect of the ensemble. The ability to capture live performance in realtime and diffuse it through the ensemble invites a rich hetereogensous soundworld for solo performance. The ability to synthesize and playback recorded sounds through the mechanism enables the precise soundsource control that circumvents the limitations of human endurance. By removing the human performer from the equation, the instrument can be presented as a physical object in repetition and in various contexts, enabling the development of works more sculptural and less performative. This is also an opportunity to deploy instruments in order to work with the specific acoustics of the space, suspending them in locations that precisely activate nodes of a space. This project brings together all of these opportunities into the scope of a single suite of projects, each of which has been explored individually. 
+
+
+//////////////////////////////////////
+How do you plan to reach/build your audience or user base?*
+There are two main outcomes of this project, the manufactured augmentation of the euphonium and artistic works. The manufactured augmentation is currently focused on producing mouthpieces and we are documenting the work on a public github page. This repository of code serves as a place for people to take up and manipulate the physical code. We are also conducting this research in a way where we document each step of the process in code, sound and video. The goal of this approach is to systematically test and review our results with the intention of presenting a paper at the New Images for Musical Sound Conference. 
+
+The artistic output will have two main thrusts, centered around the two collaborators. For Davidson, the goal from the outset is to extend the sonic possibilities of the instrument and create an ensemble of euphoniums. This is will become a vehicle for concert presentation, discussion in the field of professional brass players and new music performers as well as a unique provocation in commissioning new pieces. For the composer Jette, this project is a vehicle for a unique compositional paradigm, an opportunity to develop installations and as a vehicle for live improvised electronic music. 
+
+//////////////////////////////////////
+What are the greatest challenges to the success of your project?*
+
+
+//////////////////////////////////////
+How do you think your project will benefit from participating in the Stochastic Community?*
+
+//////////////////////////////////////
+Create a rough timeline for your project from its current state to completion.*
+
+//////////////////////////////////////
+What community building event, service, or project would you plan to do during your time with us?*
+
+//////////////////////////////////////
+Is there anything else you would like us to know?*
+
+
+
+
+//////////////////////////////////////
+NOTES
+- need Github - alter euph
+- need video docu 
+- Inspired by Adolph Sax work, Timpin
+- Science Fiction - what if Wurlitzer Horn had become the big thing, what would the world of music look like? (Replace all live brass ensembles with Wurlitzer Horns - automated movement)
